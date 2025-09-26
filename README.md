@@ -1,16 +1,37 @@
-# expense_tracker
+# 💰 Expense Tracker App  
 
-A new Flutter project.
+A **Flutter-based** application to track and visualize your weekly expenses.  
+Easily monitor your spending with **bar charts** 📊 and **list views** 📋.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features  
+✅ Track weekly expenses  
+✅ Interactive **bar chart** with dynamic Y-axis (based on highest weekly spending)  
+✅ Clean **list view** of all expenses  
+✅ Automatic calculation of **maximum spending** per week  
+✅ Built with **Flutter + Provider** for smooth state management  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🔧 Prerequisites  
+- Install [Flutter](https://flutter.dev/docs/get-started/install)  
+- VS Code or Android Studio with Flutter/Dart plugin  
+
+### ▶️ Run the app  
+```bash
+git clone https://github.com/YashBarfa0603/expense-tracker.git
+cd expense-tracker
+flutter pub get
+flutter run
+📦 Release Notes
+v1.0.0 🎉
+Initial release of Expense Tracker App
+
+Weekly tracking system
+
+Bar chart visualization with auto-scaling
+
+List view of expenses
